@@ -1,0 +1,22 @@
+SMAP
+insert_005fcategory_jsp.java
+JSP
+*S JSP
+*F
++ 0 insert_category.jsp
+admin/insert_category.jsp
+*L
+1,9:44
+10:53,3
+11,6:56
+17,5:63
+21,2:68
+23:70,3
+24,3:73
+27:76,3
+28,7:79
+35:86,3
+36,11:89
+47:100,3
+48,7:103
+*E
